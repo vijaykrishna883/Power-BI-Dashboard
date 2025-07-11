@@ -1,8 +1,9 @@
-# Netflix Content Strategy & Engagement Insights Dashboard
+⭐ **NETFLIX CONTENT STRATEGY & ENGAGEMENT INSIGHTS DASHBOARD** ⭐  
+*Built with Power BI by Purnachandra Reddy Peddasura*
 
-Built with Power BI by Purnachandra Reddy Peddasura
+---
 
-📌 Overview
+**📌 OVERVIEW**
 
 This Power BI dashboard was created to analyze Netflix’s global content using publicly available data. It helps internal teams make data-informed decisions about what types of content to produce, where to release them, and how different genres perform across countries.
 
